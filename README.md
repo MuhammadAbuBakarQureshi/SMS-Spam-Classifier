@@ -1,3 +1,6 @@
+![](https://media.licdn.com/dms/image/v2/D4D22AQH87HumGFBFug/feedshare-shrink_800/B4DZi9wAbZHwAk-/0/1755530135993?e=1762387200&v=beta&t=JphtcPJWPb9F-2JE6ASCspD6gs4Inazv4Y-AQjIDB08)
+
+
 # SMS Spam Classifier  
 
 An end-to-end **Machine Learning + Full-Stack** project that classifies SMS messages as **Spam** or **Ham (Not Spam)**.  
@@ -29,4 +32,4 @@ This project combines **machine learning, API deployment, and full-stack integra
 - React.js (UI for SMS input and prediction results)  
 
 **Dataset**  
-- [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
+- [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) 
